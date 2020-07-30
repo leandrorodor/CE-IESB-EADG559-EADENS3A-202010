@@ -1,9 +1,5 @@
-//DisciplinaSoftwares para Ciência de Dados
-//Data: 08/04/2020
-//Aluno: Leandro Rodor de Oliveira
-//Turma: IESB Asa Sul
-//Período:  1º/2020
-//Professor:  Júlio Fonseca
+//Validação de CPF
+
 programa
 {
 	inclua biblioteca Texto --> tx
